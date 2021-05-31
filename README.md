@@ -1,7 +1,8 @@
 # SimpleQRCodeGenerator
 
 ## Overview
-This is just a little program that allows you to generate QR-Codes using Python.
+This is just a little program that allows you to generate QR-Codes using Python. 
+>**Note:** The temp.png is needed and will be generated in the current directory the program is executed in.
 
 ## References
 **Used Libraries:**
