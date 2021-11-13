@@ -33,6 +33,8 @@ python qrcode_gen.py
 
 Setup:
 ```
+sudo apt update
+sudo apt-get install python3-tk
 git clone https://github.com/Lennektro-Official/SimpleQRCodeGenerator
 cd SimpleQRCodeGenerator
 sudo pip3 install -r requirements.txt
